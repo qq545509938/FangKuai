@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ed71607e-1749-4ab2-99fd-5bb2ca8dd2cf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "taozi": {
+      "ver": "1.0.3",
+      "uuid": "3a59e8c0-42e9-4b9e-bd4b-23fd46fe0647",
+      "rawTextureUuid": "ed71607e-1749-4ab2-99fd-5bb2ca8dd2cf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 4,
+      "trimY": 6,
+      "width": 112,
+      "height": 167,
+      "rawWidth": 120,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
